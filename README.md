@@ -93,7 +93,7 @@ Inclui dados de exemplo: 4 funcionários, 4 projetos e várias alocações.
 
 - **Backend:** PHP 7.4+  
 - **Banco de Dados:** MySQL 5.7+  
-- **Frontend:** HTML5, CSS3, JavaScript  
+- **Frontend:** HTML5, CSS3 
 - **Arquitetura:** MVC simplificada  
 - **Segurança:** Prepared statements para prevenir SQL Injection  
 
